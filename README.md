@@ -8,10 +8,12 @@ I'm a final year student pursuing Bachelor's of Computer Application (BCA) at Go
 - **Languages:** JavaScript, Python
 - **Tools & Others:** Git, VSCode, Postman
 
-🌱 **Currently Learning:** Advanced React techniques and exploring cloud services like AWS for deployment.
+🌱 **Currently Learning:** Advanced Node techniques and exploring cloud services like AWS for deployment.
 
 📫 **Connect with me:**
 - LinkedIn: [Jaydipsinh Solanki](https://www.linkedin.com/in/jaydipsinhsolanki/)
 - Email: jaydipsinhsolanki9297@gmail.com
 
 Feel free to reach out to discuss projects, collaborations, or anything related to full-stack development!
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=jaydipsinh13&theme=dark&hide_border=true)<br/>
