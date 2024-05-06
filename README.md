@@ -1,4 +1,4 @@
-Hey there, Jaydipsinh! 
+Hey there! 👋 Jaydipsinh! 
 
 I'm Jaydipsinh Solanki, a BCA final year student at Gokul Global University, Sidhapur, Gujarat. I dive deep into full-stack development and enjoy juggling different programming languages and tech tools like a pro.
 
