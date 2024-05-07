@@ -5,7 +5,6 @@ I'm Jaydipsinh Solanki, a BCA final year student at Gokul Global University, Sid
 💻 **My Superpowers:**
 - **Frontend Magic:** HTML, CSS, JavaScript are my canvas, and React is my paintbrush.
 - **Backend Wizardry:** I weave wonders with Node.js, Express.js, and tame databases like MongoDB and SQL.
-- **Languages I Speak:** Fluent in JavaScript and Python, no translation needed!
 - **Tools I Tame:** Git is my trusty sidekick, VSCode is my playground, and Postman helps me talk to APIs.
 
 🌱 **Currently Sprouting:** I'm planting my flag in Advanced Node techniques and venturing into the cloud realms of AWS for deployment.
