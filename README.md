@@ -14,8 +14,3 @@ I'm Jaydipsinh Solanki, a BCA final year student at Gokul Global University, Sid
 - Got ideas or just want to chat? Drop me an email at jaydipsinhsolanki9297@gmail.com.
 
 Let's chat about projects, dream up collaborations, or just geek out about full-stack development stuff!
-
-# 📊 GitHub Adventures:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jaydipsinh13&theme=dark&hide_border=true)<br/>
-
-How's that for a readme remix? 😎
