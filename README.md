@@ -2,8 +2,11 @@ Hey there! 👋 I'm Jaydipsinh Solanki, a final-year BCA student at Gokul Global
 
 I'm involved with [Edutor App](http://edutorapp.com), an open-source platform where teachers create content and students access it via a mobile app (250K+ downloads) or a web app (100K+ users). My role includes understanding requirements, building roadmaps, designing system architecture, and developing the backend with Node.js. I also work with React.js for the frontend. Additionally, I'm learning about cloud services on AWS to build end-to-end products.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaydipsinhsolanki/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:jaydipsinhsolanki9297@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/jaydipsinhsolanki/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white&labelColor=red)](mailto:jaydipsinhsolanki9297@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/jaydipsinh_13)
+
+
 
 Let's connect for projects, collaborations, or just to chat about full-stack development!
 
