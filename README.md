@@ -6,7 +6,8 @@ I'm involved with [Edutor App](http://edutorapp.com), an open-source platform wh
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white&labelColor=red)](mailto:jaydipsinhsolanki9297@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/jaydipsinh_13)
 
-
+### 📊 GitHub Adventures:
+![](https://github-readme-streak-stats.herokuapp.com/?user=jaydipsinh13&theme=dark&hide_border=true)<br/>
 
 Let's connect for projects, collaborations, or just to chat about full-stack development!
 
