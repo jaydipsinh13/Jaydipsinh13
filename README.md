@@ -1,13 +1,15 @@
-Hey there! 👋 I'm Jaydipsinh Solanki, a final-year BCA student at Gokul Global University, Sidhapur, Gujarat. I'm passionate about full-stack development and love working with various programming languages and tech tools and have been working as a full-stack developer at an ed-tech startup for the past year.
+👋 Hi, I'm **Jaydipsinh Solanki**, a recent graduate and a **jugadu** at heart—always finding creative solutions to problems.
 
-I'm involved with [Edutor App](http://edutorapp.com), an open-source platform where teachers create content and students access it via a mobile app (250K+ downloads) or a web app (100K+ users). My role includes understanding requirements, building roadmaps, designing system architecture, and developing the backend with Node.js. I also work with React.js for the frontend. Additionally, I'm learning about cloud services on AWS to build end-to-end products.
+I currently work at an ed-tech startup, contributing to the [**Edutor App**](http://edutorapp.com) 📱, an open-source platform connecting teachers and students (300K+ downloads for the mobile app and 100K+ users for the web app). My role involves understanding requirements and building product features using both frontend and backend development 🛠️. I started out working on frontend development, but now I’m focused on backend development, where my role involves understanding requirements and building product features.
+
+You can reach out to me at **jaydipsinhsolanki9297@gmail.com** and I'll get back to you within 24 hours! 📧
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/jaydipsinhsolanki/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white&labelColor=red)](mailto:jaydipsinhsolanki9297@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/jaydipsinh_13)
 
 ### 📊 GitHub Adventures:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jaydipsinh13&theme=dark&hide_border=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaydipsinh13&theme=vue&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-Let's connect for projects, collaborations, or just to chat about full-stack development!
+**Let’s connect for projects, collaborations, or if you have an idea to build something new! 🤝🌍 If you like, we can team up and create something amazing for the world!**
 
