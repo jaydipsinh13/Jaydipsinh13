@@ -11,5 +11,5 @@ You can reach out to me at **jaydipsinhsolanki9297@gmail.com** and I'll get back
 ### 📊 GitHub Adventures:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaydipsinh13&theme=vue&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-**Let’s connect for projects, collaborations, or if you have an idea to build something new! 🤝🌍 If you like, we can team up and create something amazing for the world!**
+**Let’s team up for projects or new ideas! 🚀🤝"**
 
