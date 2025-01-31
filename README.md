@@ -1,16 +1,12 @@
-👋 Hi, I'm **Jaydipsinh Solanki**, a recent graduate and a **jugadu** at heart—always finding creative solutions to problems.
+## 👋 Hi, I'm **Jaydipsinh Solanki**
 
-I currently work at an ed-tech startup, contributing to the [**Edutor App**](http://edutorapp.com) 📱, an open-source platform connecting teachers and students (300K+ downloads for the mobile app and 100K+ users for the web app). My role involves understanding requirements and building product features using both frontend and backend development 🛠️. I started out working on frontend development, but now I’m focused on backend development, where my role involves understanding requirements and building product features.
+Engineer who learns by building. Changed my focus after 2 years of college to work on real projects. Join **Edutor App** (350K+ users), a platform for teachers and students, aiming to become the *Amazon of Education*. Developed government chatbots and citizen portals, with a notable project being *Samadhan AI* for the *Ministry of Housing & Urban Affairs*. Passionate about solving real-world problems with tech—**backend**, **AI**, and **full-stack dev**. Always experimenting with new ideas.
 
-You can reach out to me at **jaydipsinhsolanki9297@gmail.com** and I'll get back to you within 24 hours! 📧
+If you’re working on something that actually helps people, let’s team up and make it happen! 💡🚀
 
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/jaydipsinhsolanki/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white&labelColor=red)](mailto:jaydipsinhsolanki9297@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/jaydipsinh_13)
 [![Website](https://img.shields.io/badge/Website-green?style=flat-square&logo=internet-explorer&logoColor=white&labelColor=green)](https://jaydipsinh-portfolio.vercel.app)
-
-### 📊 GitHub Adventures:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaydipsinh13&theme=vue&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-**Let’s team up for projects or new ideas! 🚀🤝**
 
